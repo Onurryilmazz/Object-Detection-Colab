@@ -41,4 +41,3 @@ After downloading the pre-trained model file, I made the appropriate changes for
 ## Results
 ![Result1](https://github.com/Onurryilmazz/Object-Detection-Colab/blob/main/images/zombie-anim%20(1).gif)
 
-![Result2](https://github.com/Onurryilmazz/Object-Detection-Colab/blob/main/images/deneme.jpg)
